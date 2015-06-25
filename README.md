@@ -1,5 +1,7 @@
 # Speed Down Machine
 
+![Speed Down Machine, Berlin - July 2014](/doc/IMG_1291.jpg?raw=true "Speed Down Machine, Berlin - July 2014")
+
 (2014)
 
 projector, computer, kinect camera, dedicated software
